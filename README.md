@@ -1,6 +1,7 @@
 - Hi, I’m Kunal Patil
-- I’m interested in data science and data analytics roles
-- I have the relevant skills for these roles(Python,Machine learning, Statistics,Data-analysis)
+- Data driven engineer interested in emerging technologies in AI, ready to take large volumes of complex
+data, extract insights, and help solve problems implementing various machine learning and statistical
+techniques.
 - Reach me @linkedin: https://www.linkedin.com/in/kunal-patil-0929a0190. 
 
 <!---
