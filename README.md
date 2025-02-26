@@ -1,7 +1,5 @@
 - Hi, I’m Kunal Patil
-- Data driven engineer interested in emerging technologies in AI, ready to take large volumes of complex
-data, extract insights, and help solve problems implementing various machine learning and statistical
-techniques.
+- Your Friendly Neighbourhood Data Wrangler, a supposed master at turning dumpster-fire datasets into "actionable insights" for business growth—because buzzwords pay the bills. I juggle Python, SQL, and overhyped machine learning/generative AI tricks, excelling at predictive modeling and stats so dazzling they might actually mean something. With cutting-edge AI and a knack for spotting trends (or mirages), I churn out "impactful" solutions and innovative strategies that sound brilliant—results may vary. Peek at my GitHub if you’re brave enough.
 - Reach me @linkedin:  https://www.linkedin.com/in/kunalpatil104 
 
 <!---
